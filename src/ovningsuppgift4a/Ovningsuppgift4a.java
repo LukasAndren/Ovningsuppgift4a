@@ -20,7 +20,7 @@ import javax.swing.*;
 
 /**
  *
- * @author buster
+ * @author Lukas test
  */
 public class Ovningsuppgift4a extends JFrame implements ActionListener{
     JLabel labelTextfält = new JLabel("Filnamn: ");
